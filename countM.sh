@@ -9,7 +9,7 @@
 # Next line is the place to provide it with the path
 path='path/to/samples/location'
 
-# The results will be in the parent folder. due to some presumtions about the
+# The results will be in the parent folder. due to some presumptions about the
 # location of this folder in the next lines, changing it will break the script.
 if ! [ -d $path/../samples ] ; then
 	mkdir $path/../samples
