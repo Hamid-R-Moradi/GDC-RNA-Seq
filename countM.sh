@@ -2,7 +2,7 @@
 # version 1.0 Written by Hamid Reza Moradi, With a little help from internet fellas ;)
 # for any questions or bugs email hr-moradi@alumnus.tums.ac.ir
 # this script might not be the best way to implement this process but it will do the job. 
-# provide it with the path to te directory you have stored all your samples
+# provide it with the path to the directory that you have stored all the samples
 # downloaded form gdc. ( You have extract them, this action is not implemented
 # right now)
 
